@@ -54,6 +54,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
  
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
-## Simulation
-## Output
-## Result
+## Simulation 
+<img width="1468" height="611" alt="Screenshot 2025-08-30 114423" src="https://github.com/user-attachments/assets/4bf109e2-96bd-464a-a3cb-99aaa630c212" />
+## Output 
+<img width="1911" height="936" alt="Screenshot 2025-08-30 114358" src="https://github.com/user-attachments/assets/2e747369-68d7-4132-b349-fff0ed3f9f55" />
+## Result 
+Thus the Simulation of Half wave rectifier controlled by SCR is studied and verified Successfully.
+T
